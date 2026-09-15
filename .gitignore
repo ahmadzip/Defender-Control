@@ -1,0 +1,70 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+x64/
+x86/
+ARM64/
+Win32/
+
+# C++ intermediate files
+*.aps
+*.db
+*.opendb
+*.tlog/
+*.lastbuildstate
+*.ipch/
+*.pch
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.res
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+
+# Visual Studio generated files
+*.g.cpp
+*.g.h
+*.xaml.cpp
+*.xaml.h
+*.winmd
+
+# Packaging and deployment
+AppPackages/
+AppPackages*/
+BundleArtifacts/
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.appinstaller
+*.cer
+*.pfx
+
+# NuGet
+packages/*
+!packages/.gitkeep
+*.nupkg
+
+# Generated project files
+Generated Files/
+
+# Logs and dumps
+*.log
+*.dmp
+
+# Temporary files
+[Tt]emp/
+*.tmp
+*.bak
+*.swp

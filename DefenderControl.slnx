@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WindowsDefenderControl/WindowsDefenderControl.vcxproj" Id="2abb3f08-10f7-446d-8cd7-e68c9dc8ed53">
+    <Deploy />
+  </Project>
+</Solution>
